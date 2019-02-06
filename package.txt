@@ -1,0 +1,6 @@
+NAME=mtdev
+VERSION=1.1.5
+REVISION=1
+LICENSE=X11
+SRC=http://bitmath.org/code/mtdev/mtdev-1.1.5.tar.bz2
+SRCMD5=52c9610b6002f71d1642dc1a1cca5ec1
